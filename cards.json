@@ -1,0 +1,24 @@
+{
+  "lists": [
+    {
+      "title": "Lista de cards 4",
+      "id": 1,
+      "cards": [
+        { "id": 1, "title": "Card1", "body": "Setar o Rails API"},
+        { "id": 2, "title": "Card2", "body": "Setar o React"},
+        { "id": 3, "title": "Card3", "body": "Setar o PWA"},
+        { "id": 4, "title": "Card4", "body": "Setar o Axios"}
+      ]
+    },
+    {
+      "title": "Lista de cards 2",
+      "id": 2,
+      "cards": [
+        { "id": 1, "title": "Card1", "body": "Setar o Rails API"},
+        { "id": 2, "title": "Card2", "body": "Setar o React"},
+        { "id": 3, "title": "Card3", "body": "Setar o PWA"},
+        { "id": 4, "title": "Card4", "body": "Setar o Axios"}
+      ]
+    }
+  ]
+}
